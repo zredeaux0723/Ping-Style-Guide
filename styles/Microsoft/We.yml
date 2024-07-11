@@ -1,6 +1,6 @@
 extends: existence
 message: "Try to avoid using first-person plural like '%s'."
-link: https://docs.microsoft.com/en-us/style-guide/grammar/person#avoid-first-person-plural
+link: https://pingidentity.atlassian.net/wiki/spaces/CCC/pages/21136732/Voice+and+tone
 level: warning
 ignorecase: true
 
