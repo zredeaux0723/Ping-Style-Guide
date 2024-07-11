@@ -2,7 +2,7 @@ extends: conditional
 message: "'%s' has no definition."
 link: https://pingidentity.atlassian.net/wiki/spaces/CCC/pages/21140952/Abbreviations+and+acronyms
 
-level: suggestion
+level: error
 ignorecase: false
 # Ensures that the existence of 'first' implies the existence of 'second'.
 first: '\b([A-Z]{3,5})\b'
