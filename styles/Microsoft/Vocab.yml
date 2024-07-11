@@ -1,6 +1,6 @@
 extends: existence
-message: "Verify your use of '%s' with the A-Z word list."
-link: 'https://docs.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/a/abort-abortion'
+message: "Use '%s' instead of '%s'."
+link: https://pingidentity.atlassian.net/wiki/spaces/CCC/pages/21136768/Word+choice
 level: suggestion
 ignorecase: true
 
