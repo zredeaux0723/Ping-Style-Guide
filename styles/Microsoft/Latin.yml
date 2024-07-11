@@ -1,0 +1,12 @@
+extends: substitution
+message: "Don't use Latin terms. Use '%s' instead of '%s'."
+link: https://pingidentity.atlassian.net/wiki/spaces/CCC/pages/21136768/Word+choice#Wordchoice-Wordsandphrasestoavoid
+ignorecase: true
+level: error
+nonword: true
+
+action:
+  name: replace
+swap:
+  '\b(?:eg|e\.g\.)[\s,]': for example
+  '\b(?:ie|i\.e\.)[\s,]': that is
