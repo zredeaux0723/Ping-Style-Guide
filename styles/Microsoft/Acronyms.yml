@@ -1,6 +1,6 @@
 extends: conditional
 message: "'%s' has no definition."
-link: https://docs.microsoft.com/en-us/style-guide/acronyms
+link: https://pingidentity.atlassian.net/wiki/spaces/CCC/pages/21140952/Abbreviations+and+acronyms
 
 level: suggestion
 ignorecase: false
