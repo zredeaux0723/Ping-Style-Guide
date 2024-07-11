@@ -1,6 +1,6 @@
 extends: existence
 message: "Don't spell out the number in '%s'."
-link: https://docs.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/units-of-measure-terms
+link: https://pingidentity.atlassian.net/wiki/spaces/CCC/pages/21136764/Numbers
 level: error
 
 raw:
