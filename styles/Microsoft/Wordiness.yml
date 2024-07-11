@@ -1,8 +1,8 @@
 extends: substitution
-message: "Consider using '%s' instead of '%s'."
-link: https://docs.microsoft.com/en-us/style-guide/word-choice/use-simple-words-concise-sentences
+message: "Use '%s' instead of '%s' to increase reading ease."
+link: https://pingidentity.atlassian.net/wiki/spaces/CCC/pages/21136738/Minimalism
 ignorecase: true
-level: warning
+level: suggestion
 
 action:
   name: replace
