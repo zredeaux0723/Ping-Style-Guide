@@ -1,6 +1,6 @@
 extends: existence
 message: "'%s' should have one space."
-link: https://docs.microsoft.com/en-us/style-guide/punctuation/periods
+link: https://pingidentity.atlassian.net/wiki/spaces/CCC/pages/339083592/Punctuation
 level: error
 nonword: true
 
