@@ -1,6 +1,6 @@
 extends: existence
 message: "'%s' doesn't need a hyphen."
-link: https://docs.microsoft.com/en-us/style-guide/punctuation/dashes-hyphens/hyphens
+link: https://pingidentity.atlassian.net/wiki/spaces/CCC/pages/21137010/Hyphens
 level: warning
 
 ignorecase: false
