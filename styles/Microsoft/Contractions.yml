@@ -1,7 +1,7 @@
 extends: substitution
-message: "Use '%s' instead of '%s'."
-link: https://docs.microsoft.com/en-us/style-guide/word-choice/use-contractions
-level: error
+message: "Contractions are friendlier. Considering using '%s' instead of '%s'."
+link: https://pingidentity.atlassian.net/wiki/spaces/CCC/pages/21137952/Using+contractions
+level: suggestion
 
 ignorecase: true
 action:
