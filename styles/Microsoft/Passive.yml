@@ -1,5 +1,6 @@
 extends: existence
-message: "'%s' looks like passive voice."
+message: "'%s' looks like passive voice. Consider rewriting in active voice."
+link: https://pingidentity.atlassian.net/wiki/spaces/CCC/pages/671318203/Active+voice
 ignorecase: true
 level: suggestion
 
