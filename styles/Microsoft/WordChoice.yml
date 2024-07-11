@@ -1,0 +1,24 @@
+extends: existence
+message: "Use '%s' instead of '%s'."
+link: https://pingidentity.atlassian.net/wiki/spaces/CCC/pages/21136768/Word+choice
+level: suggestion
+ignorecase: true
+
+tokens:
+  - above
+  - accessible
+  - actionable
+  - against
+  - alarm
+  - alert
+  - alias
+  - allows?
+  - assure
+  - author
+  - avg
+  - ensure
+  - he
+  - insure
+  - she
+  - sample
+  - beta
