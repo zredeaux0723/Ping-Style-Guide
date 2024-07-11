@@ -1,6 +1,6 @@
 extends: substitution
-message: "Use '%s' instead of '%s'."
-link: https://docs.microsoft.com/en-us/style-guide/word-choice/use-us-spelling-avoid-non-english-words
+message: "Don't use Latin terms. Use '%s' instead of '%s'."
+link: https://pingidentity.atlassian.net/wiki/spaces/CCC/pages/21136768/Word+choice#Wordchoice-Wordsandphrasestoavoid
 ignorecase: true
 level: error
 nonword: true
