@@ -1,6 +1,6 @@
 extends: existence
 message: "Don't add -ly to an ordinal number."
-link: https://docs.microsoft.com/en-us/style-guide/numbers
+link: https://pingidentity.atlassian.net/wiki/spaces/CCC/pages/21136764/Numbers
 level: error
 
 action:
