@@ -1,6 +1,6 @@
 extends: existence
 message: "Always spell out the name of the month."
-link: https://docs.microsoft.com/en-us/style-guide/numbers#numbers-in-dates
+link: https://pingidentity.atlassian.net/wiki/spaces/CCC/pages/21136764/Numbers
 ignorecase: true
 level: error
 nonword: true
