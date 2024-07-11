@@ -1,6 +1,6 @@
 extends: existence
 message: "Don't use ordinal numbers for dates."
-link: https://docs.microsoft.com/en-us/style-guide/numbers#numbers-in-dates
+link: https://pingidentity.atlassian.net/wiki/spaces/CCC/pages/21136764/Numbers
 level: error
 nonword: true
 ignorecase: true
