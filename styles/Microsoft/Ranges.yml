@@ -1,6 +1,6 @@
 extends: existence
 message: "Use a hyphen to separate a range of numbers."
-link: 'https://pingidentity.atlassian.net/wiki/spaces/CCC/pages/21136764/Numbers'
+link: https://pingidentity.atlassian.net/wiki/spaces/CCC/pages/21136764/Numbers
 nonword: true
 level: warning
 
