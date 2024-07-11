@@ -1,5 +1,6 @@
 extends: occurrence
-message: "Try to keep sentences short (< 30 words)."
+message: "Try to keep sentences short (< 25 words)."
+link: https://pingidentity.atlassian.net/wiki/spaces/CCC/pages/21136732/Voice+and+tone
 scope: sentence
 level: suggestion
 max: 30
