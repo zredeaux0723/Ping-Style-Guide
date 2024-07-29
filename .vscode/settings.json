@@ -1,3 +1,6 @@
 {
-    "vale.enableSpellcheck": true
+    "vale.enableSpellcheck": true,
+    "vale.valeCLI.config": "/Users/zenobia.redeaux/Documents/GitHub/Ping-Style-Guide/.vale.ini",
+    "vale.valeCLI.minAlertLevel": "suggestion",
+    "vale.valeCLI.path": "/opt/homebrew/Cellar/vale/3.7.0/bin/vale"
 }
